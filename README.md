@@ -144,7 +144,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Estimating the Cache Efficiency using Big Data at Allegro](https://allegro.tech/2017/01/estimating-the-cache-efficiency-using-big-data.html)
 	* [Caching (with Hashing) at Zenefits](https://engineering.zenefits.com/2016/02/basic-infrastructure-patterns/)
 	* [Distributed Cache (Akka, Kubernetes) at Zalando](https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/)
-	* [Application Data Caching from RAM to SSD at NetFlix](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
+	* [Application Data Caching from RAM to SSD at NetFlix](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)✅
 	* [Tradeoffs of Replicated Cache at Skyscanner](https://medium.com/@SkyscannerEng/the-tradeoffs-of-a-replicated-cache-b6680c722f58)
 	* [Avoiding Cache Stampede at DoorDash](https://blog.doordash.com/avoiding-cache-stampede-at-doordash-55bbf596d94b)
 	* [Location Caching with Quadtrees at Yext](http://engblog.yext.com/post/geolocation-caching)
