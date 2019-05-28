@@ -197,7 +197,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
         * [MaaT: DAG-based Distributed Task Scheduler at Alibaba](https://hackernoon.com/meet-maat-alibabas-dag-based-distributed-task-scheduler-7c9cf0c83438)
         * [boundary-layer: Declarative Airflow Workflows at Etsy](https://codeascraft.com/2018/11/14/boundary-layer%e2%80%89-declarative-airflow-workflows/)
 * [Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
-	* [The Problem with Logging - Jeff Atwood](https://blog.codinghorror.com/the-problem-with-logging/)
+	* [The Problem with Logging - Jeff Atwood](https://blog.codinghorror.com/the-problem-with-logging/)✅
 	* [The Log: What Every Software Engineer Should Know](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 	* [Using Logs to Build a Solid Data Infrastructure - Martin Kleppmann](https://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/)
 	* [Scalable and Reliable Log Ingestion at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
