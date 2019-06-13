@@ -1,6 +1,6 @@
 # The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems
 
-_I keep track of what I read by applying a ✅ to studied resources. Resource that really echoed to me are marked with an additional ⭐️ _
+_I keep track of what I read by applying a ✅ to studied resources. Resource that really echoed to me are marked with an additional_ ⭐️
 
 An organized reading list for illustrating the patterns behind scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
