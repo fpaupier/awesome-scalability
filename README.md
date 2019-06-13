@@ -600,7 +600,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Maze: Funnel Visualization Platform at Uber](https://eng.uber.com/maze/)
 	* [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
 	* [SpinalTap: Change Data Capture System at Airbnb](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)
-	* [Accelerator: Fast Data Processing Framework at eBay](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
+	* [Accelerator: Fast Data Processing Framework at eBay](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/) ✔ 
 	* [Omid: Transaction Processing Platform at Yahoo](https://yahooeng.tumblr.com/post/180867271141/a-new-chapter-for-omid)
 	* [TensorFlowOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 	* [CaffeOnSpark: Distributed Deep Learning on Big Data Clusters at Yahoo](https://yahooeng.tumblr.com/post/139916828451/caffeonspark-open-sourced-for-distributed-deep)
