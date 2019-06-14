@@ -546,7 +546,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Diagnosing Networking Issues in the Linux Kernel at Mixpanel](https://code.mixpanel.com/2015/03/26/diagnosing-networking-issues-in-the-linux-kernel/)
 	* [Hardware-Assisted Video Transcoding at Dailymotion](https://medium.com/dailymotion-engineering/hardware-assisted-video-transcoding-at-dailymotion-66cd2db448ae)
 	* [Cross Shard Transactions at 10 Million RPS at Dropbox](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
-	* [API Profiling at Pinterest](https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961)
+	* [API Profiling at Pinterest](https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961) ✔ profiling an API to identify cost per endpoint / function. (USD / request handled) - profiling is helpful to avoid blind optimization.
 	* [Pagelets Parallelize Server-side Processing at Yelp](https://engineeringblog.yelp.com/2017/07/generating-web-pages-in-parallel-with-pagelets.html)
 	* [Improving key expiration in Redis at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/improving-key-expiration-in-redis.html)
 * [Performance Optimization by Tuning Garbage Collection](https://confluence.atlassian.com/enterprise/garbage-collection-gc-tuning-guide-461504616.html)
