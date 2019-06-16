@@ -764,7 +764,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Scaling Live Videos to a Billion Users at Facebook - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw) ✅ Difficult to predict thundering herds + interesting double caching (PoP + DC)
 * [Scaling Low-latency Live Streams at Facebook (Latencies for Real-time Interactions) - Saral Shodhan, SDE at Facebook](https://atscaleconference.com/videos/scaling-low-latency-live-streams/)
 * [Scaling Low-latency Live Streams at Facebook (End-to-End Considerations) - Federico Larumbe, SDE at Facebook](https://atscaleconference.com/videos/scaling-low-latency-live-streams-2-of-2/)
-* [Scaling Infrastructure at Instagram - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E) ✅ profile before oany ptimizations
+* [Scaling Infrastructure at Instagram - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E) ✅ profile before many optimizations
 * [Scaling Infrastructure at Twitter - Yao Yue, Staff Software Engineer at Twitter](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
 * [Scaling Infrastructure at Etsy - Bethany Macri, Engineering Manager at Etsy](https://www.youtube.com/watch?v=LfqyhM1LeIU)
 * [Scaling Real-time Infrastructure at Alibaba for Global Shopping Holiday - Xiaowei Jiang, Senior Director at Alibaba](https://atscaleconference.com/videos/scaling-alibabas-real-time-infrastructure-for-global-shopping-holiday/)
