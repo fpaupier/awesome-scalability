@@ -570,8 +570,8 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [The Process of Optimizing for Client Performance at Expedia](https://medium.com/expedia-engineering/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
 
 ## Intelligence
-* [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html)
-	* [Data Platform at Uber](https://eng.uber.com/uber-big-data-platform/)
+* [Big Data](https://insights.sei.cmu.edu/sei_blog/2017/05/reference-architectures-for-big-data-systems.html) ✅ very high level, not very relevant
+	* [Data Platform at Uber](https://eng.uber.com/uber-big-data-platform/) ✅ Detailed evolution of Uber data platform from their beginning to 2017
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
