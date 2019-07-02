@@ -39,11 +39,11 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Lessons from Giant-Scale Services - Eric Brewer, UC Berkeley & Google](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf) ✅ Not sure if all the strategies and best practices described here still apply today. 
 * [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean, Google](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf) ✔ 
 * [How to Design a Good API & Why it Matters - Joshua Bloch, CMU & Google](https://www.infoq.com/presentations/effective-api-design) ✅ ⭐️ Excellent talk - summary in blue book.
-* [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
+* [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/) 🗃 multiple resources
 * [Things to Keep in Mind When Building a Platform for the Enterprise - Heidi Williams, VP Platform at Box](https://blog.box.com/blog/4-things-to-keep-in-mind-when-building-a-platform-for-the-enterprise/) ✅
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
-* [The Twelve-Factor App](https://12factor.net/)
+* [The Twelve-Factor App](https://12factor.net/) ⭐️ I still think the advice here are most relevant to small to mid size app but are not entirely valid for large, multiply replicated services. Especially, I doubt the scalability of the strategy they advise for (III) Config and (XII) Admin Processes
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) ✅
 * [High Cohesion and Low Coupling](http://www.math-cs.gordon.edu/courses/cs211/lectures-2009/Cohesion,Coupling,MVC.pdf)
 * [Monoliths and Microservices](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf)
