@@ -270,7 +270,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Kafka at Trello](https://tech.trello.com/why-we-chose-kafka/)
 		* [Kafka at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
 		* [Kafka at Rakuten](https://techblog.rakuten.co.jp/2016/01/28/rakuten-paas-kafka/)
-		* [Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
+		* [Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077) ✅ interesting use of the log like features provided by Kafka 
 		* [Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
 		* [Migrating Kafka's Zookeeper with No Downtime at Yelp](https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html)
 		* [Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
