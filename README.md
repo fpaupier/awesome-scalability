@@ -216,7 +216,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
     * [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
     * [Securitybot: Distributed Alerting Bot at Dropbox](https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/)
     * [Observability (2 parts) at Twitter](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-ii.html)
-    * [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6)
+    * [Distributed Security Alerting at Slack](https://slack.engineering/distributed-security-alerting-c89414c992d6) ✅ Describe a mechanism that uses2fa when suspicious behavior spotted. This is not supposed to prevent security failure but decrease responsme time when one happens. Many comments in the article emphasizes the potential hurdle for the devs (acknowledging sensible command on a smartphone within the security SLA time can be a time consuming when done multiple times a day). 
     * [Real-Time News Alerting at Bloomberg](https://www.infoq.com/presentations/news-alerting-bloomberg)
 	* [Unicorn: Remediation System at eBay](https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/)
 	* [Optimising M3 at Uber](https://eng.uber.com/optimizing-m3/)
