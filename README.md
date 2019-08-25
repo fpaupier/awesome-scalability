@@ -271,7 +271,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Kafka at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
 		* [Kafka at Rakuten](https://techblog.rakuten.co.jp/2016/01/28/rakuten-paas-kafka/)
 		* [Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077) ✅ interesting use of the log like features provided by Kafka 
-		* [Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html)
+		* [Kafka at Yelp](https://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html) ✅ typical stack composed of Kafka, a schema registry, and Avro messages. BONUS point for their schema documentation process in a wiki like. Data owners are specified.
 		* [Migrating Kafka's Zookeeper with No Downtime at Yelp](https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html)
 		* [Reprocessing and Dead Letter Queues with Kafka at Uber](https://eng.uber.com/reliable-reprocessing/)
 		* [Chaperone: Audit Kafka End-to-End at Uber](https://eng.uber.com/chaperone/)
