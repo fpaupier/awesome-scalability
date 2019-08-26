@@ -83,8 +83,8 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Scalability Worst Practices](https://www.infoq.com/articles/scalability-worst-practices) ✅ ito re read in sometimes
 * [Use Solid Technologies - Don’t Re-invent the Wheel - Keep It Simple!](https://medium.com/@DataStax/instagram-engineerings-3-rules-to-a-scalable-cloud-application-architecture-c44afed31406)
 * [Simplicity by Distributing Complexity](https://jobs.zalando.com/tech/blog/simplicity-by-distributing-complexity/)
-* [Why Over-Reusing is Bad](http://tech.transferwise.com/why-over-reusing-is-bad/)
-* [Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/)
+* [Why Over-Reusing is Bad](http://tech.transferwise.com/why-over-reusing-is-bad/) ✅
+* [Performance is a Feature](https://blog.codinghorror.com/performance-is-a-feature/) ✅
 * [Make Performance Part of Your Workflow](https://codeascraft.com/2014/12/11/make-performance-part-of-your-workflow/)
 * [The Benefits of Server Side Rendering over Client Side Rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
 * [Writing Code that Scales](https://blog.rackspace.com/writing-code-that-scales)
