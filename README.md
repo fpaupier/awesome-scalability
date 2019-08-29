@@ -186,10 +186,10 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
     * [Scheduler at Nextdoor](https://engblog.nextdoor.com/we-don-t-run-cron-jobs-at-nextdoor-6f7f9cc62040)
     * [Peloton: Unified Resource Scheduler for Diverse Cluster Workloads at Uber](https://eng.uber.com/peloton/)
     * [Fenzo: OSS Scheduler for Apache Mesos Frameworks at Netflix](https://medium.com/netflix-techblog/fenzo-oss-scheduler-for-apache-mesos-frameworks-5c340e77e543)
-    * [Airflow - Workflow Management Platform at Airbnb](https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8)
+    * [Airflow - Workflow Management Platform at Airbnb](https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8) ✅ 
 		* [Airflow at Pandora](https://engineering.pandora.com/apache-airflow-at-pandora-1d7a844d68ee)
         * [Airflow at Robinhood](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8)
-        * [Airflow at Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff)
+        * [Airflow at Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff) ✅
         * [Airflow at Drivy](https://drivy.engineering/airflow-architecture/)
 		* [Airflow at Grab](https://engineering.grab.com/experimentation-platform-data-pipeline)
 		* [Airflow at Adobe](https://medium.com/adobetech/adobe-experience-platform-orchestration-service-with-apache-airflow-952203723c0b)
