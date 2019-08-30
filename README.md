@@ -718,12 +718,12 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [How Spotify Streams Music](https://labs.spotify.com/2018/08/31/smoother-streaming-with-bbr/)
 
 ## Organization
-* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
-* [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87)
+* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels) ✅
+* [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87) ✅
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
 * [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
 * [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd)
-* [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1)
+* [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1) ✅
 * [Scaling Agile at bol.com](https://hackernoon.com/how-we-run-bol-com-with-60-autonomous-teams-fe7a98c0759)
 * [Lessons Learned from Scaling a Product Team at Intercom](https://blog.intercom.com/how-we-build-software/)
 * [Hiring, Managing, and Scaling Engineering Teams at Typeform](https://medium.com/@eleonorazucconi/toby-oliver-cto-typeform-on-hiring-managing-and-scaling-engineering-teams-86bef9e5a708)
