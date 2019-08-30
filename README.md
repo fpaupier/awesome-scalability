@@ -102,7 +102,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html) ✅ hands on advice. Avoid early optimization of infra. Avoid using cutting edge product in prod.
 
 ## Scalability
-* [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
+* [Microservices and Orchestration](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d) ✅
 	* [Microservices Resource Guide - Martin Fowler](https://martinfowler.com/microservices/)
 	* [Microservices Patterns](http://microservices.io/patterns/)
 	* [Advantages and Drawbacks of Microservices](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
