@@ -53,7 +53,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Scale Up vs Scale Out](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 * [Scale Up vs Scale Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
 * [Best Practices for Scaling Out](https://blog.openshift.com/best-practices-for-horizontal-application-scaling/) ✅
-* [Best Practices for Continuous Delivery](https://techblog.rakuten.co.jp/2018/02/06/cd-the-best-practice/)
+* [Best Practices for Continuous Delivery](https://techblog.rakuten.co.jp/2018/02/06/cd-the-best-practice/) ✅
 * [ACID and BASE](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 * [Blocking/Non-Blocking and Sync/Async](https://blogs.msdn.microsoft.com/csliu/2009/08/27/io-concept-blockingnon-blocking-vs-syncasync/)
 * [Performance and Scalability of Databases](https://use-the-index-luke.com/sql/testing-scalability)
