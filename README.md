@@ -211,7 +211,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Distributed Monitoring and Alerting](https://www.oreilly.com/ideas/monitoring-distributed-systems)
     * [Alibaba Monitoring System](https://www.usenix.org/conference/srecon18asia/presentation/xinchi)
 	* [Smart Monitoring System for Anomaly Detection on Business Trends at Alibaba](https://www.usenix.org/conference/srecon17asia/program/presentation/wang)
-    * [Real User Monitoring at Dailymotion](https://medium.com/dailymotion/real-user-monitoring-1948375f8be5)
+    * [Real User Monitoring at Dailymotion](https://medium.com/dailymotion/real-user-monitoring-1948375f8be5) ✅
     * [Alerting Ecosystem at Uber](https://eng.uber.com/observability-at-scale/)
     * [Job-based Forecasting Workflow for Observability Anomaly Detection at Uber](https://eng.uber.com/observability-anomaly-detection/)
     * [Securitybot: Distributed Alerting Bot at Dropbox](https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/)
