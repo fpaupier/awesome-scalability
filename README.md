@@ -721,7 +721,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels) ✅
 * [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87) ✅
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
-* [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
+* [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering) ✅
 * [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd)
 * [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1) ✅
 * [Scaling Agile at bol.com](https://hackernoon.com/how-we-run-bol-com-with-60-autonomous-teams-fe7a98c0759)
@@ -741,7 +741,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando](https://jobs.zalando.com/tech/blog/four-pillars-leadership/)
 * [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 * [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
-* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
+* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e) ✅
 
 ## Talk
 * [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) ✅ if you read DDIA not much to learn here
