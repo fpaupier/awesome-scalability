@@ -354,7 +354,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 		* [Geosharded Recommendations (3 parts) at Tinder](https://tech.gotinder.com/geosharded-recommendations-part-3-consistency/)				
 * [NoSQL Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 	* [Key-Value Databases (DynamoDB)](http://www.cs.ucsb.edu/~agrawal/fall2009/dynamo.pdf)
-		* [DynamoDB at Nike](https://medium.com/nikeengineering/becoming-a-nimble-giant-how-dynamo-db-serves-nike-at-scale-4cc375dbb18e)
+		* [DynamoDB at Nike](https://medium.com/nikeengineering/becoming-a-nimble-giant-how-dynamo-db-serves-nike-at-scale-4cc375dbb18e) ✅
 		* [DynamoDB at Segment](https://segment.com/blog/the-million-dollar-eng-problem/)
 		* [DynamoDB at Mapbox](https://blog.mapbox.com/scaling-mapbox-infrastructure-with-dynamodb-streams-d53eabc5e972)
 		* [Manhattan: Distributed Key-Value Database at Twitter](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale.html)
