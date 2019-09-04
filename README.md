@@ -584,7 +584,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Big Data Processing at Uber](https://cdn.oreillystatic.com/en/assets/1/event/160/Big%20data%20processing%20with%20Hadoop%20and%20Spark%2C%20the%20Uber%20way%20Presentation.pdf)
 	* [Analytics Pipeline at Lyft](https://cdn.oreillystatic.com/en/assets/1/event/269/Lyft_s%20analytics%20pipeline_%20From%20Redshift%20to%20Apache%20Hive%20and%20Presto%20Presentation.pdf)
 	* [Analytics Pipeline at Grammarly](https://tech.grammarly.com/blog/building-a-versatile-analytics-pipeline-on-top-of-apache-spark)
-	* [Analytics Pipeline at Teads](https://medium.com/teads-engineering/give-meaning-to-100-billion-analytics-events-a-day-d6ba09aa8f44)
+	* [Analytics Pipeline at Teads](https://medium.com/teads-engineering/give-meaning-to-100-billion-analytics-events-a-day-d6ba09aa8f44) ✅
 	* [ML Data Pipelines for Real-Time Fraud Prevention at PayPal](https://www.infoq.com/presentations/paypal-ml-fraud-prevention-2018)
 	* [Big Data Analytics and ML Techniques at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/269/Big%20data%20analytics%20and%20machine%20learning%20techniques%20to%20drive%20and%20grow%20business%20Presentation%201.pdf)
 	* [Self-Serve Reporting Platform on Hadoop at LinkedIn](https://cdn.oreillystatic.com/en/assets/1/event/137/Building%20a%20self-serve%20real-time%20reporting%20platform%20at%20LinkedIn%20Presentation%201.pdf)
@@ -595,7 +595,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Gimel: Analytics Data Processing Platform at PayPal](https://www.paypal-engineering.com/2018/04/17/gimel/)
 	* [AthenaX: Streaming Analytics Platform at Uber](https://eng.uber.com/athenax/)
 	* [Keystone: Real-time Stream Processing Platform at Netflix](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
-	* [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/)
+	* [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/)✅⭐ dataset repository with metadata and stats. accessible through Ui and rest api
 	* [Amundsen: Data Discovery & Metadata Engine at Lyft](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 	* [Maze: Funnel Visualization Platform at Uber](https://eng.uber.com/maze/)
 	* [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
