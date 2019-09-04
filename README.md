@@ -722,7 +722,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87) ✅
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
 * [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering) ✅
-* [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd)
+* [Scaling Data Science Team at GOJEK](https://blog.gojekengineering.com/the-dynamics-of-scaling-an-organisation-cb96dbe8aecd) ✅
 * [Scaling Agile at Zalando](https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1) ✅
 * [Scaling Agile at bol.com](https://hackernoon.com/how-we-run-bol-com-with-60-autonomous-teams-fe7a98c0759)
 * [Lessons Learned from Scaling a Product Team at Intercom](https://blog.intercom.com/how-we-build-software/)
