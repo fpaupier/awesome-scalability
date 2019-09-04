@@ -574,8 +574,8 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Data Platform at Uber](https://eng.uber.com/uber-big-data-platform/) ✅ Detailed evolution of Uber data platform from their beginning to 2017
 	* [Data Platform at Netflix](https://www.youtube.com/watch?v=CSDIThSwA7s)
 	* [Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196) ✅
-	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm)
-	* [Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c)
+	* [Data Platform at Khan Academy](http://engineering.khanacademy.org/posts/khanalytics.htm) ✅
+	* [Data Infrastructure at Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c) ⭐✅
 	* [Data Infrastructure at LinkedIn](https://www.infoq.com/presentations/big-data-infrastructure-linkedin)
 	* [Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
 	* [Data Ingestion Infrastructure at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
