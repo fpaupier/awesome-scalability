@@ -613,6 +613,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/) ⭐
 	* [Scaling Michelangelo](https://eng.uber.com/scaling-michelangelo/) ⭐ Those two articles about `michelangelo` at Uber are gold to understand complexities of bulding a ML Platform at Enterprise scale.
+	* [Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development](https://eng.uber.com/michelangelo-pyml/) ✅
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)
 	* [Manifold: Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)
