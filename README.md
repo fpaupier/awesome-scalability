@@ -43,7 +43,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Things to Keep in Mind When Building a Platform for the Enterprise - Heidi Williams, VP Platform at Box](https://blog.box.com/blog/4-things-to-keep-in-mind-when-building-a-platform-for-the-enterprise/) ✅
 * [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
 * [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
-* [The Twelve-Factor App](https://12factor.net/) ⭐️ I still think the advice here are most relevant to small to mid size app but are not entirely valid for large, multiply replicated services. Especially, I doubt the scalability of the strategy they advise for (III) Config and (XII) Admin Processes
+* [The Twelve-Factor App](https://12factor.net/) ✅ I still think the advice here are most relevant to small to mid size app but are not entirely valid for large, multiply replicated services. Especially, I doubt the scalability of the strategy they advise for (III) Config and (XII) Admin Processes
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) ✅
 * [High Cohesion and Low Coupling](http://www.math-cs.gordon.edu/courses/cs211/lectures-2009/Cohesion,Coupling,MVC.pdf)
 * [Monoliths and Microservices](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf)
@@ -611,7 +611,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
-	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
+	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/) ⭐✅
 	* [Scaling Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 	* [Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber](https://eng.uber.com/horovod/)
 	* [COTA: Improving Customer Care with NLP & Machine Learning at Uber](https://eng.uber.com/cota/)
@@ -788,7 +788,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Beyond the Twelve-Factor App - Exploring the DNA of Highly Scalable, Resilient Cloud Applications (Free)](http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp)
 * [Chaos Engineering - Building Confidence in System Behavior through Experiments (Free)](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp?intcmp=il-webops-free-product-na_new_site_chaos_engineering_text_cta)
 * [The Art of Scalability](http://theartofscalability.com/)
-* [Designing Data-Intensive Applications](https://dataintensive.net/) ✅⭐
+* [Designing Data-Intensive Applications](https://dataintensive.net/) ⭐
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
