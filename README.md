@@ -734,7 +734,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [From 2 Founders to 1000 Employees at Transferwise](https://medium.com/transferwise-ideas/from-2-founders-to-1000-employees-how-a-small-scale-startup-grew-into-a-global-community-9f26371a551b)
 * [Lessons Learned Growing a UX Team from 10 to 170 at Adobe](https://medium.com/thinking-design/lessons-learned-growing-a-ux-team-from-10-to-170-f7b47be02262)
 * [Five Lessons from Scaling at Pinterest](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
-* [Approach Engineering at Vinted](http://engineering.vinted.com/2018/09/04/how-we-approach-engineering-at-vinted/)
+* [Approach Engineering at Vinted](http://engineering.vinted.com/2018/09/04/how-we-approach-engineering-at-vinted/) ✅
 * [Using Metrics to Improve the Development Process (and Coach People) at Indeed](https://engineering.indeedblog.com/blog/2018/10/using-metrics-to-improve-the-development-process-and-coach-people/)
 * [Mistakes to Avoid while Creating an Internal Product at Skyscanner](https://medium.com/@SkyscannerEng/9-mistakes-to-avoid-while-creating-an-internal-product-63d579b00b1a)
 * [RACI (Responsible, Accountable, Consulted, Informed) at Etsy](https://codeascraft.com/2018/01/04/selecting-a-cloud-provider/)
