@@ -752,7 +752,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Site Reliability Engineering at Dropbox - Tammy Butow, Site Reliability Engineering Manager at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE)
 * [How Google Does Planet-Scale for Planet-Scale Infra - Melissa Binde, SRE Director for Google Cloud Platform](https://www.youtube.com/watch?v=H4vMcD7zKM0) ⭐ 
 * [Netflix Guide to Microservices - Josh Evans, Director of Operations Engineering at Netflix](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=2837s)
-* [Achieving Rapid Response Times in Large Online Services - Jeff Dean, Google Senior Fellow](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
+* [Achieving Rapid Response Times in Large Online Services - Jeff Dean, Google Senior Fellow](https://www.youtube.com/watch?v=1-3Ahy7Fxsc) ✅
 * [Architecture to Handle 80K RPS Celebrity Sales at Shopify - Simon Eskildsen, Engineering Lead at Shopify](https://www.youtube.com/watch?v=N8NWDHgWA28)
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
 * [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/) ✅ part 2 about China internet is interesting 
