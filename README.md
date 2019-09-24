@@ -464,7 +464,6 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Top Five (Load Balancing) Scalability Patterns](https://www.f5.com/company/blog/top-five-scalability-patterns)
 	* [Load Balancing infrastructure to support more than 1.3 billion users at Facebook](https://www.usenix.org/conference/srecon15europe/program/presentation/shuff)
 	* [DHCPLB: DHCP Load Balancer at Facebook](https://code.facebook.com/posts/1734309626831603/dhcplb-an-open-source-load-balancer/)
-	* [Katran: Scalable Network Load Balancer at Facebook](https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/)
 	* [Load Balancing with Eureka at Netflix](https://medium.com/netflix-techblog/netflix-shares-cloud-load-balancing-and-failover-tool-eureka-c10647ef95e5)
 	* [Edge Load Balancing at Netflix](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
 	* [Zuul 2: Cloud Gateway at Netflix](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
@@ -608,7 +607,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Experimentation Platform at Airbnb](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
 	* [Smart Product Platform at Zalando](https://jobs.zalando.com/tech/blog/zalando-smart-product-platform/?gh_src=4n3gxh1)
 	* [Log Analysis Platform at LINE](https://www.slideshare.net/wyukawa/strata2017-sg)
-	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d)
+	* [Data Visualisation Platform at Myntra](https://medium.com/myntra-engineering/universal-dashboarding-platform-udp-data-visualisation-platform-at-myntra-5f2522fcf72d) ❌
 	* [Building and Scaling Data Lineage at Netflix](https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977)
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/) ⭐
@@ -655,11 +654,11 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [GUI Testing Powered by Deep Learning at eBay](https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/)
 	* [Scaling Machine Learning to Recommend Driving Routes at Pivotal](http://engineering.pivotal.io/post/scaling-machine-learning-to-recommend-driving-routes/)
 	* [Real-Time Predictions at DoorDash](https://www.infoq.com/presentations/doordash-real-time-predictions)
-	* [Machine Intelligence at Dropbox](https://blogs.dropbox.com/tech/2018/09/machine-intelligence-at-dropbox-an-update-from-our-dbxi-team/)
+	* [Machine Intelligence at Dropbox](https://blogs.dropbox.com/tech/2018/09/machine-intelligence-at-dropbox-an-update-from-our-dbxi-team/) ✅ quite vague in the description - rather fast switch to the Why to the How
 	* [Machine Learning for Indexing Text from Billions of Images at Dropbox](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 	* [Modeling User Journeys via Semantic Embeddings at Etsy](https://codeascraft.com/2018/07/12/modeling-user-journey-via-semantic-embeddings/)
 	* [Automated Fake Account Detection at LinkedIn](https://engineering.linkedin.com/blog/2018/09/automated-fake-account-detection-at-linkedin)
-	* [Building Knowledge Graph at Airbnb](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a)
+	* [Building Knowledge Graph at Airbnb](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a) ✅
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
