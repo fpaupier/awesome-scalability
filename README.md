@@ -581,7 +581,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Data Analytics Architecture at Pinterest](https://medium.com/@Pinterest_Engineering/behind-the-pins-building-analytics-f7b508cdacab)
 	* [Big Data Processing (2 parts) at Spotify](https://labs.spotify.com/2017/10/23/big-data-processing-at-spotify-the-road-to-scio-part-2/)
 	* [Big Data Processing at Uber](https://cdn.oreillystatic.com/en/assets/1/event/160/Big%20data%20processing%20with%20Hadoop%20and%20Spark%2C%20the%20Uber%20way%20Presentation.pdf)
-	* [Analytics Pipeline at Lyft](https://cdn.oreillystatic.com/en/assets/1/event/269/Lyft_s%20analytics%20pipeline_%20From%20Redshift%20to%20Apache%20Hive%20and%20Presto%20Presentation.pdf)
+	* [Analytics Pipeline at Lyft](https://cdn.oreillystatic.com/en/assets/1/event/269/Lyft_s%20analytics%20pipeline_%20From%20Redshift%20to%20Apache%20Hive%20and%20Presto%20Presentation.pdf) ✅
 	* [Analytics Pipeline at Grammarly](https://tech.grammarly.com/blog/building-a-versatile-analytics-pipeline-on-top-of-apache-spark)
 	* [Analytics Pipeline at Teads](https://medium.com/teads-engineering/give-meaning-to-100-billion-analytics-events-a-day-d6ba09aa8f44) ✅
 	* [ML Data Pipelines for Real-Time Fraud Prevention at PayPal](https://www.infoq.com/presentations/paypal-ml-fraud-prevention-2018)
