@@ -634,7 +634,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [Venue Rating System at Foursquare](https://engineering.foursquare.com/finding-the-perfect-10-how-we-developed-the-foursquare-venue-rating-system-c76b08f7b9b3)
 	* [Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
 	* [Machine Learning to Match Drivers & Riders at GO-JEK](https://blog.gojekengineering.com/how-we-use-machine-learning-to-match-drivers-riders-b06d617b9e5)
-	* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html)
+	* [Improving Video Thumbnails with Deep Neural Nets at YouTube](https://youtube-eng.googleblog.com/2015/10/improving-youtube-video-thumbnails-with_8.html) ✅
 	* [Quantile Regression for Delivering On Time at Instacart](https://tech.instacart.com/how-instacart-delivers-on-time-using-quantile-regression-2383e2e03edb)
 	* [Cross-Lingual End-to-End Product Search with Deep Learning at Zalando](https://jobs.zalando.com/tech/blog/search-deep-neural-network/)
 	* [Machine Learning at Jane Street](https://blog.janestreet.com/real-world-machine-learning-part-1/)
