@@ -164,7 +164,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 	* [ZooKeeper at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter.html)
 	* [Eliminating Duplicate Queries using Distributed Locking at Chartio](https://blog.chartio.com/posts/eliminating-duplicate-queries-using-distributed-locking)
 * [Distributed Tracking, Tracing, and Measuring](https://www.oreilly.com/ideas/understanding-the-value-of-distributed-tracing)
-	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html)
+	* [Zipkin: Distributed Systems Tracing at Twitter](https://blog.twitter.com/engineering/en_us/a/2012/distributed-systems-tracing-with-zipkin.html) 🆗
 	* [Improve Zipkin Traces using Kubernetes Pod Metadata at SoundCloud](https://developers.soundcloud.com/blog/using-kubernetes-pod-metadata-to-improve-zipkin-traces)
 	* [Canopy: Scalable Distributed Tracing & Analysis at Facebook](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook)
 	* [Pintrace: Distributed Tracing at Pinterest](https://medium.com/@Pinterest_Engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
