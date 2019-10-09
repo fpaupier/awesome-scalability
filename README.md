@@ -69,7 +69,7 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Don’t be tricked by the Hashing Trick](https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087)
 * [Uniform Consistent Hashing at Netflix](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9)
 * [Eventually Consistent - Werner Vogels, CTO at Amazon](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
-* [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/)
+* [Cache is King](https://www.stevesouders.com/blog/2012/10/11/cache-is-king/) ✅ - short, straight to the point and backed with figures. A scientific analysis. 
 * [Anti-Caching](https://www.the-paper-trail.org/post/2014-06-06-paper-notes-anti-caching/)
 * [Understand Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
 * [Latency Numbers Every Programmer Should Know](http://norvig.com/21-days.html#answers)
